@@ -1,0 +1,5 @@
+llama-index
+chromadb
+ollama
+duckduckgo-search
+streamlit
